@@ -1,7 +1,7 @@
 
 
 
-![App Screenshot](https://github.com/SaddamShah92/Bakery-Website/files/14970272/README.md)
+![App Screenshot](https://github.com/SaddamShah92/Bakery-Website/assets/129947606/f98b101f-6015-4aad-af78-25554c671441)
 
 
 # Backery Website
